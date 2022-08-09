@@ -1,11 +1,21 @@
 # Jobs
 # NIKE
 - company: <a href=http://www.nike.com>NIKE Inc.</a>
-  position: Senior Director, Office of Cybersecurity & Chief of Staff
-  duration: March 2018 &mdash; Present
-  summary: "Senior Cybersecurity executive leading risk-driven Strategic development, ensuring cross-Portfolio execution and reporting,
-  and daily business operations for Nike's Enterprise Cybersecurity program.  Also serve as Chief of Staff to the CISO, facilitating leadership
-  execution, and talent lifecycle management across the department."
+  position: Deputy CISO
+  duration: November 2021 &mdash; Present
+  summary: "Senior Cybersecurity executive leading cutting edge 24x7 Cyber Defense capability for Nike's Global Cybersecurity program across multiple
+  Geo's.  Drive strategic delivery of all elements of Cyber Defense, as well as own strategic executive storytelling products and briefing NIKE Inc. Senior Executive
+  Leadership and Board of Directors"
+  accomplishments:
+    - item: Established first overseas Follow-the-Sun SOC and IR capability, unlocking increased operational effectiveness and local alignment for regulatory requirements
+    - item: Led key cross-functional incident response teams to ensure Nike's continued operational security
+    - item: Oversaw Vulnerability Management expansion, reducing external vulnerability exposure by over 55% in 6 months
+
+- position: Senior Director, Office of Cybersecurity (Strategy, Portfolio, Finance, and Personnel Management)
+  duration: March 2018 &mdash; October 2021
+  #summary: "Senior Cybersecurity executive leading risk-driven Strategic development, ensuring cross-Portfolio execution and reporting,
+  #and daily business operations for Nike's Enterprise Cybersecurity program.  Also serve as Chief of Staff to the CISO, facilitating leadership
+  #execution, and talent lifecycle management across the department."
   accomplishments:
     - item: Transitioned enterprise-wide cybersecurity strategic process to clearly communicate risk-driven direction to key business stakeholders
     - item: Oversaw management of >$100m financial portfolio, including annual financial planning cycles.
@@ -82,7 +92,7 @@
 - company: <a href=http://www.ecs.baylor.edu>Baylor University - School of Computer Science</a>
   position: Adjunct Professor of Computer Science
   duration: January 2012 &mdash; December 2012
-  summary: Instructor for Data Structures (<a href=http://cs.ecs.baylor.edu/~sealey/courses/3334_s12>Spring 2012</a>, <a href=http://cs.ecs.baylor.edu/~sealey/courses/3334_12f>Fall 2012</a>)
+  summary: Instructor for Data Structures (Spring 2012, Fall 2012)
 
 # LLNL
 - company: <a href=http://www.llnl.gov>Lawrence Livermore National Laboratory</a>
