@@ -12,24 +12,30 @@ sass:
 resume_avatar:                  "true"
 resume_name:                    "Adam Sealey"
 #resume_title:                   "Senior Director, Office of Cybersecurity & Chief of Staff"
-resume_title:                   "Deputy CISO"
+#resume_title:                   "Deputy CISO"
+resume_title:                    "Chief Information Security Officer"
 #resume_title:                   "Cybersecurity Executive with emphasis on strategic development, organizational transformation, and data-driven execution."
 resume_contact_email:           "adam.sealey@gmail.com"
 resume_contact_telephone:       "925-709-4565"
 resume_contact_address:         "Portland, Oregon"
 resume_header_contact_info:     "adam.sealey@gmail.com | 925-709-4565"
 display_header_contact_info:    "true"
-resume_header_intro: "<p>Strategic, data-driven Cybersecurity Executive with 15+ years' experience
-across multiple industries, including Retail (Nike), Higher Education, and Government.  A results-oriented leader with
-a proven track record of results in risk-driven strategic development, organizational transformation,
-data-driven security and executive reporting, and talent development.</p>"
-
+resume_header_intro: "<p>Strategic, data-driven Cybersecurity Executive with 20+ years' experience
+partnering with enterprise leaders across multiple industries, including Retail (Nike), Higher Education, and Government.  
+A results-oriented leader with a proven record in risk-driven strategic development, organizational transformation,
+executive reporting, and talent development.</p>"
 
 # Intro Snips
 #building highly effective, data driven security programs and leading transformational change.</p>"
 #resume_header_intro: "<p>Strategic, data-driven Cybersecurity Executive with 15+ years' experience in
 #risk-driven strategic development, organizational transformation,  data-driven executive reporting, and
 #talent management.</p>"
+
+# Old (Pre-2024)
+# resume_header_intro: "<p>Strategic, data-driven Cybersecurity Executive with 20+ years' experience
+# across multiple industries, including Retail (Nike), Higher Education, and Government.  A results-oriented leader with
+# a proven record of delivering results in risk-driven strategic development, organizational transformation,
+# data-driven security and executive reporting, and talent development.</p>"
 
 # Old (Pre-2020)
 #resume_header_intro: "<p>Experienced Information Security and Analytics leader with a demonstrated history of working in retail, government,
@@ -56,7 +62,7 @@ resume_section_interests:       false
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/asealey"
-  resume_twitter_url:           "https://twitter.com/adamsealey"
+  #resume_twitter_url:           "https://twitter.com/adamsealey"
   #resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/adamsealey/"
