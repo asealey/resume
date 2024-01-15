@@ -3,13 +3,13 @@
 - company: <a href=http://www.nike.com>NIKE Inc.</a>
   position: Global Chief Information Security Officer (CISO)
   duration: December 2022 &mdash; Present
-  summary: "Lead all global cybersecurity capabilities protecting NIKE Inc. brands worldwide, partnering across executive leadership team to minimize 
+  summary: "Lead global cybersecurity capabilities protecting NIKE Inc. brands worldwide, partnering across executive leadership team to minimize 
   business impacts of security risks, reporting progress and positioning to the Board of Directors.
   " 
   accomplishments:
     - item: Responsibilities include Cyber Defense, Security Architecture & Engineering, GRC, Insider Threat, and Technical Recovery.
-    - item: Serve as Incident Commander for all critical security incidents, as oversight for global SOC and Incident Response team.
-    - item: Parnered to deliver enhanced Consumer Multi-factor authentication to all consumers worldwide, significantly reducing risk.
+    - item: Serve as Incident Commander for all critical security incidents as oversight for global Incident Response team.
+    # - item: Partnered to deliver enhanced Consumer Multi-factor authentication to all consumers worldwide, significantly reducing risk.
     - item: Consistently delivers strong results while leveraging data to drive increased efficiency, overdelivering against financial targets in every period.
 
 
