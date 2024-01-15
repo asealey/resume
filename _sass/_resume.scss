@@ -212,7 +212,8 @@
     }
 
     .executive-summary {
-      @include sans_regular;
+      //@include sans_regular;
+      font-size: .9rem;
       line-height: 1.1rem;
       letter-spacing: .03rem;
       //margin: 0 0 .2rem;
