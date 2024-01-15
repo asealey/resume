@@ -1,11 +1,24 @@
 # Jobs
 # NIKE
 - company: <a href=http://www.nike.com>NIKE Inc.</a>
-  position: Deputy CISO, Global
-  duration: November 2021 &mdash; Present
-  summary: "Senior Cybersecurity executive leading cutting edge 24x7 Cyber Defense capability for Nike's Global Cybersecurity program across multiple
-  countries.  Drives strategic delivery of all elements of Cyber Defense, as well as owns strategic executive storytelling products and briefing NIKE Inc. Senior Executive
-  Leadership and Board of Directors"
+  position: Global Chief Information Security Officer (CISO)
+  duration: December 2022 &mdash; Present
+  summary: "Lead all global cybersecurity capabilities protecting NIKE Inc. brands worldwide, partnering across executive leadership team to minimize 
+  business impacts of security risks, reporting progress and positioning to the Board of Directors.
+  " 
+  accomplishments:
+    - item: Responsibilities include Cyber Defense, Security Architecture & Engineering, GRC, Insider Threat, and Technical Recovery.
+    - item: Serve as Incident Commander for all critical security incidents, as oversight for global SOC and Incident Response team.
+    - item: Parnered to deliver enhanced Consumer Multi-factor authentication to all consumers worldwide, significantly reducing risk.
+    - item: Consistently delivers strong results while leveraging data to drive increased efficiency, overdelivering against financial targets in every period.
+
+
+# Make sure to put a '-' before the all old positions at the company
+- position: Deputy CISO
+  duration: November 2021 &mdash; December 2022
+  # summary: "Senior Cybersecurity executive leading cutting-edge 24x7 Cyber Defense capability for Nike's Global Cybersecurity program across multiple
+  # countries.  Drives strategic delivery of all elements of Cyber Defense, as well as owns strategic executive storytelling products and briefing NIKE Inc. Senior Executive
+  # Leadership and Board of Directors"
   accomplishments:
     - item: Established first overseas Follow-the-Sun SOC and IR capability, unlocking increased operational effectiveness and local alignment for regulatory requirements
     - item: Led key cross-functional incident response teams to ensure Nike's continued operational security, including analyzing over 75TB of daily data for indicators of malicious activity
@@ -42,7 +55,7 @@
     #- item: Leveraged new capability to divest outsourced MSSP, saving over $500K annually
     - item: 'Led combination of Splunk capability across five Nike groups under one instance, saving over $75M in 3 years.  Team recognized with Nike Technology Maxim award: "Be a Sponge" for vision and execution'
     #- item: Defined strategic vision and road-map for advanced security analytic capabilities leveraging machine learning
-    - item: Responsible for management of entire security portfolio finances, totaling over $50M
+    - item: Oversaw entire security portfolio finances (>$50M)
 
 - position: Senior Information Security Engineer
   duration: April 2013 &mdash; April 2014
@@ -61,7 +74,7 @@
   # summary: Summary
   accomplishments:
     #- item: Principal technical analyst reporting to university Information Security Officer
-    - item: Technical lead for PCI compliance effort including project management of technical implementations.  Member of the Payment Card Oversight committee responsible for payment card usage university wide
+    - item: Technical lead for PCI compliance effort including project management of technical implementations.  Lead Payment Card Oversight committee responsible for payment card usage university wide
     - item: Lead development and operation of technical detection mechanisms for security incidents
     - item: Develop incident response process and lead incident response team
     - item: Provide computer forensic support for internal and criminal investigations in coordination with Baylor Police and Office of General Counsel
