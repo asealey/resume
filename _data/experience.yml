@@ -7,11 +7,10 @@
   business impacts of security risks, reporting progress and positioning to the Board of Directors.
   " 
   accomplishments:
-    - item: Responsibilities include Cyber Defense, Security Architecture & Engineering, GRC, Insider Threat, and Technical Recovery.
-    - item: Serve as Incident Commander for all critical security incidents as oversight for global Incident Response team, in support of 
-    global regulatory requirements.
-    # - item: Partnered to deliver enhanced Consumer Multi-factor authentication to all consumers worldwide, significantly reducing risk.
-    - item: Consistently delivers strong results while leveraging data to drive increased efficiency, overdelivering against financial targets in every period.
+    - item: Responsibilities include Cyber Defense, Security Architecture & Engineering, GRC, Insider Threat, and Technical Recovery
+    - item: Serve as Incident Commander for all critical security incidents as oversight for global Incident Response team, in support of global regulatory requirements
+    # - item: Partnered to deliver enhanced Consumer Multi-factor authentication to all consumers worldwide, significantly reducing risk
+    - item: Consistently delivers strong results while leveraging data to drive increased efficiency, overdelivering against financial targets in every period
 
 
 # Make sure to put a '-' before the all old positions at the company
@@ -23,7 +22,7 @@
   accomplishments:
     - item: Established first overseas Follow-the-Sun SOC and IR capability, unlocking increased operational effectiveness and local alignment for regulatory requirements
     - item: Led key cross-functional incident response teams to ensure Nike's continued operational security, including analyzing over 75TB of daily data for indicators of malicious activity
-    - item: Oversaw Vulnerability Management expansion, reducing external vulnerability exposure by over 55% in 6 months
+    - item: Oversaw vulnerability management expansion, reducing external vulnerability exposure by over 55% in 6 months
 
 - position: Senior Director, Office of Cybersecurity (Strategy, Portfolio, Business Operations)
   duration: March 2018 &mdash; October 2021
@@ -32,8 +31,8 @@
   #execution, and talent lifecycle management across the department."
   accomplishments:
     - item: Transitioned enterprise-wide cybersecurity strategic process to clearly communicate risk-driven direction to key business stakeholders
-    - item: Oversaw management of >$100m financial portfolio, including annual financial planning cycles.
-    - item: Developed all executive storylines and products for briefings to the NIKE Inc. Executive Leadership Team and Board of Directors.
+    - item: Oversaw management of >$100m financial portfolio, including annual financial planning cycles
+    - item: Developed all executive storylines and products for briefings to the NIKE Inc. Executive Leadership Team and Board of Directors
 
 - position: Director, Cybersecurity Governance and Metrics
   duration: June 2016 &mdash; March 2018
@@ -42,10 +41,10 @@
   #senior leadership levels, driving risk-based strategic insight.  Oversee security exception and risk register processes, providing
   #foundation for risk-driven strategic alignment across the security portfolio."
   accomplishments:
-    - item: Established Enterprise-wide information security governance program aligned to NIST, including clearly defined portfolio-wide metrics.
+    - item: Established Enterprise-wide information security governance program aligned to NIST, including clearly defined portfolio-wide metrics
     #- item: Established Program Governance function, aligning CIS programs with Audit, Governance, and Strategy
     - item: Remediated 7/7 critical audit findings in the first year, including 2 that were previously behind schedule
-    - item: Developed, released, and socialized new Data Classification framework, greatly simplifying end user experience
+    - item: Developed, released, and socialized new data classification framework, greatly simplifying end-user experience
     #- item: Led execution & delivery of GRC Quarterly Business Review (QBR), Corporate Strategic Review (CSR), and budget process
 
 - position: Director, Cyber Threat Analytics
@@ -71,13 +70,12 @@
 # Baylor
 - company: <a href=http://www.baylor.edu>Baylor University</a>
   position: Senior Information Security Analyst
-  duration: September 2004 &mdash; April 2013
+  duration: 2004 &mdash; 2009, 2010 &mdash; 2013
   # summary: Summary
   accomplishments:
     #- item: Principal technical analyst reporting to university Information Security Officer
     - item: Technical lead for PCI compliance effort including project management of technical implementations.  Lead Payment Card Oversight committee responsible for payment card usage university wide
-    - item: Lead development and operation of technical detection mechanisms for security incidents
-    - item: Develop incident response process and lead incident response team
+    - item: Lead development and operation of technical detection mechanisms for security incidents, including incident response team
     - item: Provide computer forensic support for internal and criminal investigations in coordination with Baylor Police and Office of General Counsel
     - item: Assist in development of campus-wide security policies and roadmaps, in addition to standard vendor contract reviews and negotiations
     #- item: Conduct exploratory research into emerging security technologies
@@ -105,13 +103,15 @@
 # Baylor Adjunct
 - company: <a href=http://www.ecs.baylor.edu>Baylor University - School of Computer Science</a>
   position: Adjunct Professor of Computer Science
-  duration: January 2012 &mdash; December 2012
+  duration: 2012
+  #duration: January 2012 &mdash; December 2012
   summary: Instructor for Data Structures (Spring 2012, Fall 2012)
 
 # LLNL
 - company: <a href=http://www.llnl.gov>Lawrence Livermore National Laboratory</a>
   position: Senior Cyber Security Specialist
-  duration: August 2009 &mdash; September 2010
+  duration: 2009 &mdash; 2010
+  #duration: August 2009 &mdash; September 2010
   # summary: Summary
   accomplishments:
     - item: Liaison between security research groups and security operations teams
