@@ -4,13 +4,14 @@
   position: Global Chief Information Security Officer (CISO)
   duration: December 2022 &mdash; Present
   summary: "Lead global cybersecurity capabilities protecting NIKE Inc. brands worldwide, partnering across executive leadership team to minimize 
-  business impacts of security risks.
+  business impacts of cybersecurity risks. 
   " 
   accomplishments:
     - item: Responsibilities include Cyber Defense, Security Architecture & Engineering, GRC, Insider Threat, & Technical Recovery
     - item: Facilitate quarterly cybersecurity discussions with Audit & Finance Committee, and annual full Board briefings
     - item: Responsible for governing all risks across the Global Technology portfolio, partnering with business leaders to prioritize risk remediation
     - item: Incident Commander for all critical security incidents as oversight for global Incident Response team, in support of global regulatory requirements
+    - item: Accountable for global technology risk governance and mitigation across entire technology landscape.
     # - item: Partnered to deliver enhanced Consumer Multi-factor authentication to all consumers worldwide, significantly reducing risk
     #- item: Consistently delivers strong results while leveraging data to drive increased efficiency, overdelivering against financial targets in every period
     
@@ -44,7 +45,7 @@
   #senior leadership levels, driving risk-based strategic insight.  Oversee security exception and risk register processes, providing
   #foundation for risk-driven strategic alignment across the security portfolio."
   accomplishments:
-    - item: Established Enterprise-wide information security governance program aligned to NIST, including clearly defined portfolio-wide metrics
+    - item: Established global information security governance program aligned to NIST, including portfolio-wide metrics
     #- item: Established Program Governance function, aligning CIS programs with Audit, Governance, and Strategy
     - item: Remediated 7/7 critical audit findings in the first year, including 2 that were previously behind schedule
     - item: Developed, released, and socialized new data classification framework, greatly simplifying end-user experience
