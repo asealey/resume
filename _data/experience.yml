@@ -4,14 +4,16 @@
   position: Global Chief Information Security Officer (CISO)
   duration: December 2022 &mdash; Present
   summary: "Lead global cybersecurity capabilities protecting NIKE Inc. brands worldwide, partnering across executive leadership team to minimize 
-  business impacts of cybersecurity risks. 
+  business impacts of cybersecurity risks. Responsible for Cyber Defense, Security Architecture & Engineering, GRC, and Insider Threat.
   " 
   accomplishments:
-    - item: Responsibilities include Cyber Defense, Security Architecture & Engineering, GRC, Insider Threat, & Technical Recovery
-    - item: Facilitate quarterly cybersecurity discussions with Audit & Finance Committee, and annual full Board briefings
-    - item: Responsible for governing all risks across the Global Technology portfolio, partnering with business leaders to prioritize risk remediation
-    - item: Incident Commander for all critical security incidents as oversight for global Incident Response team, in support of global regulatory requirements
-    - item: Accountable for global technology risk governance and mitigation across entire technology landscape.
+    # - item: Responsibilities include Cyber Defense, Security Architecture & Engineering, GRC, Insider Threat, & Technical Recovery
+    - item: Secured NIKE against double-digit annual threat increases, while holding budget flat-to-negative.
+    - item: Facilitate quarterly cybersecurity discussions with Audit & Finance Committee, and annual full Board briefings.
+    - item: Govern all technology risks at NIKE, partnering with business leaders in Legal, Finance, HR and others to prioritize risk remediation.  Implemented new audit governance program, eliminating audit rebaselines and closing a record 29 audit issues and 7 audits in the last 12 months.
+    - item: Reduced tech-related SOX deficiencies to lowest levels in company history, with zero repeat findings in past 18 months, including securing new SAP S/4HANA implementation in US and EMEA
+    - item: Incident Commander for all critical security incidents as oversight for global Incident Response team, in support of global legal & regulatory requirements.  Reduced mean-time-to-contain from 94 minutes to 28 minutes, enabling zero public security breaches during tenure.
+    #- item: Accountable for global technology risk governance and mitigation across entire technology landscape, in partnership with Legal, Finance, and HR.
     # - item: Partnered to deliver enhanced Consumer Multi-factor authentication to all consumers worldwide, significantly reducing risk
     #- item: Consistently delivers strong results while leveraging data to drive increased efficiency, overdelivering against financial targets in every period
     
@@ -52,38 +54,38 @@
     #- item: Led execution & delivery of GRC Quarterly Business Review (QBR), Corporate Strategic Review (CSR), and budget process
 
 - position: Director, Cyber Threat Analytics
-  duration: April 2014 &mdash; May, 2016
+  duration: April 2013 &mdash; May, 2016
   # summary:  Summary
   accomplishments:
     - item: Established first security analytic team and capability focused on collecting large amounts (> 10TB/day) of security logs and identifying malicious behavior
     #- item: Leveraged new capability to divest outsourced MSSP, saving over $500K annually
+    - item: Designed and implemented automation across security function, reducing mean time to resolution by 92%
     - item: 'Led combination of Splunk capabilities across five Nike groups under one instance, saving over $75M in 3 years.  Team recognized with Nike Technology Maxim award: "Be a Sponge" for vision and execution'
     #- item: Defined strategic vision and road-map for advanced security analytic capabilities leveraging machine learning
+    - item: Led computer forensics capability in coordination with Legal and Incident Response teams
     - item: Oversaw entire security portfolio finances (>$50M)
 
-- position: Senior Information Security Engineer
-  duration: April 2013 &mdash; April 2014
-  # summary:  Summary
-  accomplishments:
-    - item: Led strategic direction for threat intelligence and analytics
-    - item: Designed and led implementation of security analytics capability leveraging Splunk
-    - item: Led computer forensics capability in coordination with Legal
-    #- item: Provided Tier 3 incident response, including mentoring Tier 1 and 2 analysts
-    - item: Designed and implemented automation across security function, reducing mean time to resolution by 92%
+# - position: Senior Information Security Engineer
+#   duration: April 2013 &mdash; April 2014
+#   # summary:  Summary
+#   accomplishments:
+#     - item: Led strategic direction for threat intelligence and analytics
+#     #- item: Designed and led implementation of security analytics capability leveraging Splunk
+    
+#     #- item: Provided Tier 3 incident response, including mentoring Tier 1 and 2 analysts
+#     
 
 # Baylor
 - company: <a href=http://www.baylor.edu>Baylor University</a>
   position: Senior Information Security Analyst
   duration: 2004 &mdash; 2009, 2010 &mdash; 2013
   # summary: Summary
-  accomplishments:
-    #- item: Principal technical analyst reporting to university Information Security Officer
-    - item: Technical lead for PCI compliance effort including project management of technical implementations.  Led Payment Card Oversight committee responsible for payment card usage university wide
-    - item: Led development and operation of technical detection mechanisms for security incidents, including incident response team
-    - item: Provided computer forensic support for internal and criminal investigations in coordination with Baylor Police and Office of General Counsel
-    - item: Assisted in development of campus-wide security policies and roadmaps, in addition to standard vendor contract reviews and negotiations
-    #- item: Conduct exploratory research into emerging security technologies
-
+  # accomplishments:
+  #   - item: Technical lead for PCI compliance effort including project management of technical implementations.  Led Payment Card Oversight committee responsible for payment card usage university wide
+  #   - item: Led development and operation of technical detection mechanisms for security incidents, including incident response team
+  #   - item: Provided computer forensic support for internal and criminal investigations in coordination with Baylor Police and Office of General Counsel
+  #   - item: Assisted in development of campus-wide security policies and roadmaps, in addition to standard vendor contract reviews and negotiations
+    
 #- position: Information Security Analyst
 #  duration: January 2008 &mdash; August 2009
   # summary: Summary
@@ -109,7 +111,7 @@
   position: Adjunct Professor of Computer Science
   duration: 2012
   #duration: January 2012 &mdash; December 2012
-  summary: Data Structures 3334 (Spring 2012, Fall 2012)
+  # summary: Data Structures 3334 (Spring 2012, Fall 2012)
 
 # LLNL
 - company: <a href=http://www.llnl.gov>Lawrence Livermore National Laboratory</a>
@@ -117,12 +119,12 @@
   duration: 2009 &mdash; 2010
   #duration: August 2009 &mdash; September 2010
   # summary: Summary
-  accomplishments:
-    - item: Liaison between security research groups and security operations teams
-    - item: Implemented and automateed CWSandbox to enhance rapid-response forensic capability of Incident Management Team (IMT)
-    - item: Redesigned web log analysis capability, including correlation with full-packet capture
-    #- item: Mentor 6 summer interns working in varying security related fields as part of 2010 CyberDefenders intern program
-    - item: Provided in-depth network forensics and cyber security incident response to entire DOE (Work required DOE Q/SCI security clearance with SSBI)
+  # accomplishments:
+  #   - item: Liaison between security research groups and security operations teams
+  #   - item: Implemented and automateed CWSandbox to enhance rapid-response forensic capability of Incident Management Team (IMT)
+  #   - item: Redesigned web log analysis capability, including correlation with full-packet capture
+  #   #- item: Mentor 6 summer interns working in varying security related fields as part of 2010 CyberDefenders intern program
+  #   - item: Provided in-depth network forensics and cyber security incident response to entire DOE (Work required DOE Q/SCI security clearance with SSBI)
 
 # Springfield Nuclear Power Plant
 # - company: Springfield Nuclear Power Plant

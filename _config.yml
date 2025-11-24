@@ -11,8 +11,6 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Adam Sealey"
-#resume_title:                   "Senior Director, Office of Cybersecurity & Chief of Staff"
-#resume_title:                   "Deputy CISO"
 resume_title:                    "Chief Information Security Officer"
 #resume_title:                   "Cybersecurity Executive with emphasis on strategic development, organizational transformation, and data-driven execution."
 resume_contact_email:           "adam.sealey@gmail.com"
@@ -20,10 +18,19 @@ resume_contact_telephone:       "925-709-4565"
 resume_contact_address:         "Portland, Oregon"
 resume_header_contact_info:     "adam.sealey@gmail.com | 925-709-4565"
 display_header_contact_info:    "true"
-resume_header_intro: "<p>Strategic, data-driven Cybersecurity Executive with 20+ years' experience
+
+# CISO Header
+#resume_header_intro: "<p>Strategic, data-driven Cybersecurity Executive with 20+ years' experience
+#partnering with enterprise leaders across multiple industries, including Retail (Nike), Higher Education, and Government.  
+#A results-oriented leader with a proven record in risk-driven strategic development, organizational transformation,
+#executive reporting, and talent development.</p>"
+
+# CIO Header
+resume_header_intro: "<p>Strategic, data-driven technology executive with 20+ years' experience
 partnering with enterprise leaders across multiple industries, including Retail (Nike), Higher Education, and Government.  
 A results-oriented leader with a proven record in risk-driven strategic development, organizational transformation,
 executive reporting, and talent development.</p>"
+
 
 # Intro Snips
 #building highly effective, data driven security programs and leading transformational change.</p>"
