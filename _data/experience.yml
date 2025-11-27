@@ -8,13 +8,13 @@
   " 
   accomplishments:
     # - item: Responsibilities include Cyber Defense, Security Architecture & Engineering, GRC, Insider Threat, & Technical Recovery
-    - item: Secured NIKE against double-digit annual threat increases, while holding budget flat-to-negative.
-    - item: Facilitate quarterly cybersecurity discussions with Audit & Finance Committee, and annual full Board briefings.
+    - item: Secured NIKE against double-digit annual threat increases while maintaining flat-to-negative budgets, resulting in zero public breaches.
+    - item: Led quarterly cybersecurity briefings for Audit & Finance Committee and annual Board updates, influencing risk prioritization across Technology, Legal, Finance, and HR.
     - item: Govern all technology risks at NIKE, partnering with business leaders in Legal, Finance, HR and others to prioritize risk remediation.  Implemented new audit governance program, eliminating audit rebaselines and closing a record 29 audit issues and 7 audits in the last 12 months.
     # - item: Partnered with HR and Finance to execute Sport Offense transition, including both Finance and HR Transformation to hybrid work models and new technology.
-    - item: Reduced tech-related SOX deficiencies to lowest levels in company history, with zero repeat findings in past 18 months, including securing new SAP S/4HANA implementation in US and EMEA
+    - item: Reduced tech-related SOX deficiencies to historic lows with zero repeat findings over 18 months; secured SAP S/4HANA rollout in US and EMEA.
     - item: Incident Commander for all critical security incidents as oversight for global Incident Response team, in support of global legal & regulatory requirements.  Reduced mean-time-to-contain from 94 minutes to 28 minutes, enabling zero public security breaches during tenure.
-    - item: Transformed consumer authentication experience, implementing Consumer Multi-Factor Authentication (MFA) for all NIKE consumers worldwide, reducing bot access by over 99%.
+    - item: Implemented global MFA for all NIKE and Converse consumers, transforming authentication and reducing bot access by 99+%.
     #- item: Accountable for global technology risk governance and mitigation across entire technology landscape, in partnership with Legal, Finance, and HR.
     # - item: Partnered to deliver enhanced Consumer Multi-factor authentication to all consumers worldwide, significantly reducing risk
     #- item: Consistently delivers strong results while leveraging data to drive increased efficiency, overdelivering against financial targets in every period
@@ -29,8 +29,8 @@
   # Leadership and Board of Directors"
   accomplishments:
     - item: Established first overseas Follow-the-Sun SOC and IR capability, unlocking increased operational effectiveness and local alignment for regulatory requirements
-    - item: Led key cross-functional incident response teams to ensure Nike's continued operational security, including analyzing over 75TB of daily data for indicators of malicious activity
-    - item: Oversaw vulnerability management expansion, reducing external vulnerability exposure by over 55% in 6 months
+    - item: Led key cross-functional incident response teams to ensure NIKE's continued operational security, including analyzing over 75TB of daily data for indicators of malicious activity
+    - item: Expanded vulnerability management, cutting external exposure by 55%+ in 6 months.
 
 - position: Senior Director, Office of Cybersecurity (Strategy, Portfolio, Business Operations)
   duration: March 2018 &mdash; October 2021
@@ -62,7 +62,7 @@
     - item: Established first security analytic team and capability focused on collecting large amounts (> 10TB/day) of security logs and identifying malicious behavior
     #- item: Leveraged new capability to divest outsourced MSSP, saving over $500K annually
     - item: Designed and implemented automation across security function, reducing mean time to resolution by 92%
-    - item: 'Led combination of Splunk capabilities across five Nike groups under one instance, saving over $75M in 3 years.  Team recognized with Nike Technology Maxim award: "Be a Sponge" for vision and execution'
+    - item: Consolidated Splunk across five groups into one instance, saving $75M+ over 3 years; earned Nike Technology Maxim Award for execution.
     #- item: Defined strategic vision and road-map for advanced security analytic capabilities leveraging machine learning
     - item: Led computer forensics capability in coordination with Legal and Incident Response teams
     # - item: Oversaw entire security portfolio finances (>$50M)
