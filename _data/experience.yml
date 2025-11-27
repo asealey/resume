@@ -11,8 +11,10 @@
     - item: Secured NIKE against double-digit annual threat increases, while holding budget flat-to-negative.
     - item: Facilitate quarterly cybersecurity discussions with Audit & Finance Committee, and annual full Board briefings.
     - item: Govern all technology risks at NIKE, partnering with business leaders in Legal, Finance, HR and others to prioritize risk remediation.  Implemented new audit governance program, eliminating audit rebaselines and closing a record 29 audit issues and 7 audits in the last 12 months.
+    # - item: Partnered with HR and Finance to execute Sport Offense transition, including both Finance and HR Transformation to hybrid work models and new technology.
     - item: Reduced tech-related SOX deficiencies to lowest levels in company history, with zero repeat findings in past 18 months, including securing new SAP S/4HANA implementation in US and EMEA
     - item: Incident Commander for all critical security incidents as oversight for global Incident Response team, in support of global legal & regulatory requirements.  Reduced mean-time-to-contain from 94 minutes to 28 minutes, enabling zero public security breaches during tenure.
+    - item: Transformed consumer authentication experience, implementing Consumer Multi-Factor Authentication (MFA) for all NIKE consumers worldwide, reducing bot access by over 99%.
     #- item: Accountable for global technology risk governance and mitigation across entire technology landscape, in partnership with Legal, Finance, and HR.
     # - item: Partnered to deliver enhanced Consumer Multi-factor authentication to all consumers worldwide, significantly reducing risk
     #- item: Consistently delivers strong results while leveraging data to drive increased efficiency, overdelivering against financial targets in every period
@@ -36,7 +38,7 @@
   #and daily business operations for Nike's Enterprise Cybersecurity program.  Also serve as Chief of Staff to the CISO, facilitating leadership
   #execution, and talent lifecycle management across the department."
   accomplishments:
-    - item: Transitioned enterprise cybersecurity strategic process in order to clearly communicate risk-driven direction to key business stakeholders
+    # - item: Transitioned enterprise cybersecurity strategic process in order to clearly communicate risk-driven direction to key business stakeholders
     - item: Oversaw management of >$100m financial portfolio, including annual financial planning cycles
     - item: Developed all executive storylines and products for briefings to the NIKE Inc. Executive Leadership Team and Board of Directors
 
@@ -63,7 +65,7 @@
     - item: 'Led combination of Splunk capabilities across five Nike groups under one instance, saving over $75M in 3 years.  Team recognized with Nike Technology Maxim award: "Be a Sponge" for vision and execution'
     #- item: Defined strategic vision and road-map for advanced security analytic capabilities leveraging machine learning
     - item: Led computer forensics capability in coordination with Legal and Incident Response teams
-    - item: Oversaw entire security portfolio finances (>$50M)
+    # - item: Oversaw entire security portfolio finances (>$50M)
 
 # - position: Senior Information Security Engineer
 #   duration: April 2013 &mdash; April 2014
